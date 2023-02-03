@@ -1,0 +1,1 @@
+This is a program designed to crawl Warcraft Logs Classic for DPS rankings by class.
